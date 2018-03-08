@@ -1,5 +1,4 @@
 class Dog
-  
   @@all = []
 
   def initialize(name)
@@ -12,5 +11,8 @@ class Dog
       puts "#{name}"
     end #@@all.each
   end #def self.all
+
+  def self.clear_all
+  end #def self.clear_all
 
 end #class Dog
