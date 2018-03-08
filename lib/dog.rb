@@ -2,5 +2,6 @@ class Dog
   @@all = []
 
   def initialize
-  end
+    
+  end #def initialize
 end #class Dog
