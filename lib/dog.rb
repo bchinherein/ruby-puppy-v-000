@@ -7,5 +7,5 @@ class Dog
     @all << self
 
   end #def initialize
-
+  @ll
 end #class Dog
